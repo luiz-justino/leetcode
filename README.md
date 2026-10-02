@@ -9,6 +9,7 @@ This repository is a growing collection of LeetCode solutions written in JavaScr
 | Problem | Difficulty | Main technique | Description | Solution |
 | --- | --- | --- | --- | --- |
 | Two Sum | Easy | Hash map | [Problem notes](problems/arrays-and-hashing/two-sum/README.md) | [JavaScript](problems/arrays-and-hashing/two-sum/twoSum.js) |
+| Min Moves | Medium | Greedy counting | [Problem notes](problems/greedy/min-moves/README.md) | [JavaScript](problems/greedy/min-moves/minMoves.js) |
 
 ## Run a solution
 
